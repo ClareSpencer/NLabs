@@ -1,7 +1,9 @@
 # NewsLabs instructions
-The textfiles containing the outputs for question one and question two are in this folder. 
+To see the output, go to the textfiles "questiononeGC.txt" and "QuestionTwo.csv".
 
-To install/run the code do the following:
+You can see the output of each part of the programs within the "QuestionOneGC.ipynb" and "QuestionTwoGC.ipynb" GitHub files.
+
+If you want to install and run the code yourself, you can do the following:
 
 * Download the two Jupyter notebook file from Github. These are the files with the suffix .ipynb
 * On your browser (preferably Chrome) log into Google Drive.
